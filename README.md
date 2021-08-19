@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaylanesbitt
 - 👀 I’m interested in learning more about programming and complex systems!
-- 🌱 I’m currently learning about data structures and analysis!
+- 🌱 I’m currently learning about data structures!
 - 📫 How to reach me: email at kaylanes@live.unc.edu
 
 <!---
